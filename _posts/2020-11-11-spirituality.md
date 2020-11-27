@@ -2,6 +2,7 @@
 layout: post
 title:  "Spirituality"
 author: Janelle Rodriques
+link: https://cla.auburn.edu/english/people/professorial-faculty/janelle-rodriques/
 image: assets/images/spirituality.jpg
 ---
 
