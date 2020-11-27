@@ -3,7 +3,7 @@ name: "Keywords for Caribbean Studies"
 title: "Keywords"
 description: "Digital sources for teaching Caribbean studies"
 favicon: 'assets/images/logo.png'
-baseurl: roopikarisam.com
+baseurl: /
 include: ["_pages"]
 permalink: pretty
 
