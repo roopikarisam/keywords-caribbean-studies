@@ -2,7 +2,7 @@
 name: "Keywords for Caribbean Studies"
 title: "Keywords"
 description: "Digital sources for teaching Caribbean studies"
-favicon: 'assets/images/logo.png'
+favicon: 'favicon.ico'
 baseurl: /
 include: ["_pages"]
 permalink: pretty
@@ -13,6 +13,11 @@ authors:
     name: Kelly Baker Josephs
     email: kbjosephs@gmail.com
     twitter: https://twitter.com/kbjosephs
+
+  roopsi:
+    name: Roopika Risam
+    email: rrisam@gmail.com
+    twitter: https://twitter.com/roopikarisam
 
 # Plugins
 plugins:
