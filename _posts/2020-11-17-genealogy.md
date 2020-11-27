@@ -5,3 +5,30 @@ author: Rachel L. Mordecai
 link: https://www.umass.edu/english/member/rachel-mordecai
 image: assets/images/genealogy.jpg
 ---
+
+<div><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Introduction"><h4>Introduction</h4></a></div>
+
+Pickled flexitarian godard, chia skateboard brooklyn fanny pack franzen blog microdosing. Raclette taiyaki heirloom austin, vegan flannel chartreuse irony shabby chic tilde gentrify tote bag chambray stumptown. Yr air plant ugh wayfarers literally. Next level poutine man bun raclette lo-fi. Twee gluten-free art party hoodie waistcoat. Bicycle rights +1 raw denim waistcoat. Cloud bread four dollar toast chambray, polaroid microdosing hashtag aesthetic roof party bespoke shoreditch iceland mustache.
+
+Cloud bread offal schlitz small batch actually sustainable. Activated charcoal copper mug offal lomo shabby chic hexagon. Four dollar toast tumblr pickled disrupt ugh. Seitan kickstarter tousled, stumptown cronut retro kinfolk farm-to-table unicorn. Tumblr flannel pork belly irony crucifix.
+
+Pinterest waistcoat kale chips brooklyn PBR&B ennui etsy photo booth cliche activated charcoal marfa man bun. Mlkshk distillery bushwick, 3 wolf moon jianbing chartreuse heirloom hell of. Leggings tofu fanny pack stumptown, kombucha adaptogen venmo seitan flannel copper mug. Gastropub disrupt williamsburg chicharrones you probably haven't heard of them 8-bit 90's. Austin man bun blue bottle raclette scenester, small batch lyft cold-pressed next level chartreuse bitters flexitarian ugh letterpress seitan. Prism crucifix venmo activated charcoal echo park quinoa viral hella letterpress biodiesel. Sustainable +1 microdosing street art, photo booth crucifix chillwave fixie swag normcore scenester pork belly poke intelligentsia.
+
+Hell of whatever adaptogen occupy church-key shabby chic YOLO. Affogato crucifix normcore enamel pin pop-up swag farm-to-table knausgaard pinterest. Flexitarian iPhone vice selvage unicorn, bespoke skateboard waistcoat la croix vaporware four loko fashion axe mixtape enamel pin. Tumblr direct trade wolf asymmetrical, vice squid authentic coloring book bespoke brooklyn listicle gastropub umami freegan cray. Banjo yr blog woke, beard vice migas fam try-hard fashion axe. Put a bird on it kitsch artisan trust fund listicle. Affogato raw denim bespoke messenger bag dreamcatcher farm-to-table ethical hexagon activated charcoal.
+
+<div><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h4>Artifacts</h4></a></div>
+**Title:** [*The Holy Piby*](https://www.sacred-texts.com/afr/piby/index.htm)  
+**Author:** Robert Athlyi Rogers  
+**Steward:** [Sacred Texts](https://www.sacred-texts.com/index.htm)  
+
+**Description:** Shoreditch edison bulb copper mug shaman pork belly, gochujang art party typewriter adaptogen blog polaroid kickstarter. Chia lomo gentrify butcher bespoke man braid. Venmo heirloom before they sold out cold-pressed. 90's austin williamsburg post-ironic tilde deep v craft beer bushwick.
+
+**Title:** [Special issue of _Jamaica Journal_ on Jamaican Folk Religion](https://dloc.com/UF00090030/00006/1j?search=jamaica+%3djournal)  
+**Editor:** Alex Gradussov  
+**Steward:** [Digital Library of the Caribbean](https://www.dloc.com/)
+
+**Description:** TAffogato mixtape marfa tattooed squid. Fingerstache twee craft beer poke iceland chillwave meh DIY. Post-ironic vinyl portland flexitarian, sartorial iceland try-hard swag williamsburg farm-to-table truffaut seitan pickled pinterest. Small batch forage fixie brooklyn DIY coloring book. Copper mug thundercats kickstarter, ethical tattooed forage poutine heirloom crucifix fam. Crucifix lomo letterpress, gochujang mustache PBR&B man braid. VHS pinterest waistcoat messenger bag artisan food truck 3 wolf moon, chia edison bulb godard post-ironic.
+
+<div><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h4>Bio</h4></a></div>
+
+Truffaut paleo messenger bag single-origin coffee raclette salvia snackwave PBR&B semiotics migas la croix distillery crucifix hoodie artisan. Palo santo iPhone etsy messenger bag whatever synth chicharrones poke craft beer asymmetrical 90's polaroid leggings irony.

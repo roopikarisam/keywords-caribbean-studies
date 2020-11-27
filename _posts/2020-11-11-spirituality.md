@@ -6,7 +6,7 @@ link: https://cla.auburn.edu/english/people/professorial-faculty/janelle-rodriqu
 image: assets/images/spirituality.jpg
 ---
 
-<h4>Introduction</h4>
+<div><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Introduction"><h4>Introduction</h4></a></div>
 
 Spirituality in the Caribbean has always been a fluid signifier, whose multiple meanings reflect accurately the many sources from which are drawn our plural culture(s). The items I have chosen below reflect not only this plurality, but also Caribbean spirituality’s defiance of easy definition and resistance to domination. Even with the pervasiveness of Christianity in the region, Caribbean spirituality has always evaded empiricism, reflecting, in all its permutations, an epistemology that is not only anticolonial but resistant to such a concept as a homogenous nation-state.
 
@@ -16,7 +16,7 @@ Even with the incorporation of Hinduism and Islam from indentured labourers from
 
 I hope to contribute to an appreciation of spirituality in the Caribbean as a strategy of survival, resistance and sustenance in the wake of the plantation. Enslaved Africans and indentured ‘Asians’ interpreted and navigated the new worlds they created outof the totality of their domination, and the materials I have curated below converge on an understanding of spirituality as liberation, and of the ‘spiritual’ as immanent in all things.
 
-<h4>Artifacts</h4>
+<div><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h4>Artifacts</h4></a></div>
 **Title:** [*The Holy Piby*](https://www.sacred-texts.com/afr/piby/index.htm)  
 **Author:** Robert Athlyi Rogers  
 **Steward:** [Sacred Texts](https://www.sacred-texts.com/index.htm)  
@@ -28,3 +28,7 @@ I hope to contribute to an appreciation of spirituality in the Caribbean as a st
 **Steward:** [Digital Library of the Caribbean](https://www.dloc.com/)
 
 **Description:** This June 1969 edition of the Jamaica Journalwas a special issue on ‘folk’ religious practices in that country. It featured the Edward Seaga’sground-breaking ethnography, by Edward Seaga, ‘Revival Cults in Jamaica;’ an article by Olive Lewin on ‘cult music;’ and Rex Nettleford’s ‘Pocomania in Dance-Theatre.’ These articles reflect a growing academic interest in Afro-syncretic spirituality in the West Indies, as well as historical revision of the role of this spirituality in resistance to slavery. This revisionism is reflected in Mary Reckford’s overview of the 1831 Baptist Rebellion, as well as editor Alex Gradussov’s interview with and reflection on Mallica ‘Kapo’ Reynolds, Jamaican religious leader and folk artist (and advisor to Seaga). Closing the issue is Kenneth Ramchand’s ‘Obeah and the Supernatural in West Indian Literature,’ which outlines how Obeah is explored and exploited in literary fiction
+
+<div><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h4>Bio</h4></a></div>
+
+Truffaut paleo messenger bag single-origin coffee raclette salvia snackwave PBR&B semiotics migas la croix distillery crucifix hoodie artisan. Palo santo iPhone etsy messenger bag whatever synth chicharrones poke craft beer asymmetrical 90's polaroid leggings irony.
