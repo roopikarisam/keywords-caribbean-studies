@@ -2,7 +2,6 @@
 layout: post
 title:  "Spirituality"
 author: Janelle Rodriques
-categories: [ Jekyll ]
 image: assets/images/spirituality.jpg
 ---
 
