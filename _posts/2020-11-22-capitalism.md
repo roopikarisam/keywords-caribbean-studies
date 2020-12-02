@@ -1,20 +1,44 @@
 ---
 layout: post
 title:  "Capitalism"
-author: Peter Hudson
+author: Peter James Hudson
 link: https://history.ucla.edu/faculty/peter-james-hudson
 image: assets/images/capitalism.jpg
 ---
 
-<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Definition"><h2>Definition</h2></a></div>
+<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Curatorial"><h2>Curatorial Statement</h2></a></div>
 
-Pickled flexitarian godard, chia skateboard brooklyn fanny pack franzen blog microdosing. Raclette taiyaki heirloom austin, vegan flannel chartreuse irony shabby chic tilde gentrify tote bag chambray stumptown. Yr air plant ugh wayfarers literally. Next level poutine man bun raclette lo-fi. Twee gluten-free art party hoodie waistcoat. Bicycle rights +1 raw denim waistcoat. Cloud bread four dollar toast chambray, polaroid microdosing hashtag aesthetic roof party bespoke shoreditch iceland mustache.
+As a way into thinking about “capitalism” as a keyword in Caribbean studies, one should perhaps turn from political economy to poetry. For arguably it is the Caribbean’s poets, songsters, essayists, and novelists – as much as its historians (and certainly more than its economists and statisticians) – who have best described and narrated the violent processes and procedures by which capital has made and remade the region. To give but one example, five centuries after Cristóbal Colón stumbled into the archipelago as part of his “Enterprise of the Indies,” Cuban poet Nicolás Guillén wrote of the Caribbean as the “West Indies, Ltd.”[^fn1] The title poem of Guillén’s 1934 collection, “West Indies, Ltd.” provides us with a legalist appellation cast as poetic critique. With droll elegance, Guillén distills the essence of the fraught history of Caribbean commodification, exploitation, and capitalist incorporation. “West Indies, Ltd” was written during the political and economic tumult of the 1930s, during a period when Wall Street greed and Washington geo-strategy were undermining Cuban sovereignty and contributing to the near-starvation of the Cuban people. Guillén wryly recorded a moment where the transformation of the region into “the grotesque headquarters of _companies and trusts_” was accelerating.[^1] Though of course, in _West Indies, Ltd._, Guillén does more than merely account for the ravishes and displacements of capitalism. His poems also document and celebrate the modes of Black song and Black survival that served as the texts and practices of Caribbean anti-capitalist resistance.
 
-Cloud bread offal schlitz small batch actually sustainable. Activated charcoal copper mug offal lomo shabby chic hexagon. Four dollar toast tumblr pickled disrupt ugh. Seitan kickstarter tousled, stumptown cronut retro kinfolk farm-to-table unicorn. Tumblr flannel pork belly irony crucifix.
+The digital artifacts I have chosen as placeholders for “capitalism” as a keyword of Caribbean studies are inspired by the work of Guillén, as well as many other writers from across the region. Through their literary practices and imaginative representation, they have offered us an implicit methodology for researching and theorizing capitalism in the Caribbean, while generating an unruly, other archive of capitalism itself. Caribbean literature has documented the great historical, social, and political-economic processes through which the Caribbean made capitalism and capitalism remade the Caribbean. This literature has also brought us closer to an understanding of capitalism’s history in the Caribbean, not necessarily as an accumulation of historical facts (though, often times, their detailing and cataloging of capitalism’s ephemera is astounding), but always, as Toni Morrison once wrote, as _truth_.[^2]
 
-Pinterest waistcoat kale chips brooklyn PBR&B ennui etsy photo booth cliche activated charcoal marfa man bun. Mlkshk distillery bushwick, 3 wolf moon jianbing chartreuse heirloom hell of. Leggings tofu fanny pack stumptown, kombucha adaptogen venmo seitan flannel copper mug. Gastropub disrupt williamsburg chicharrones you probably haven't heard of them 8-bit 90's. Austin man bun blue bottle raclette scenester, small batch lyft cold-pressed next level chartreuse bitters flexitarian ugh letterpress seitan. Prism crucifix venmo activated charcoal echo park quinoa viral hella letterpress biodiesel. Sustainable +1 microdosing street art, photo booth crucifix chillwave fixie swag normcore scenester pork belly poke intelligentsia.
+While the digital artifacts presented here are not necessarily of a literary bent as such, I would like to suggest that they enable and support the kinds of critical readings and interpretations of capitalism made possible by literature. The artifacts open up the Caribbean past and present to its contingencies and contradictions, to both the blunt brutalities of colonial power and the insidious governmentalities of the post-colonial era. And they do so without sacrificing the style, grace, élan, and beauty by which Caribbean survival has scuffled with “sufferation.”[^3] Conceptually, these artifacts were generated by thinking about three inter-related categories: ecology, labor, and finance. These categories obviously do not exhaust the sprawling archive representing the range of approaches to thinking about capitalism in the Caribbean or in Caribbean studies. I would argue, however, that they are able to capture something of the transhistorical and cross-regional dynamics and transformations of the history of capitalism in the Caribbean over more than five centuries.
 
-Hell of whatever adaptogen occupy church-key shabby chic YOLO. Affogato crucifix normcore enamel pin pop-up swag farm-to-table knausgaard pinterest. Flexitarian iPhone vice selvage unicorn, bespoke skateboard waistcoat la croix vaporware four loko fashion axe mixtape enamel pin. Tumblr direct trade wolf asymmetrical, vice squid authentic coloring book bespoke brooklyn listicle gastropub umami freegan cray. Banjo yr blog woke, beard vice migas fam try-hard fashion axe. Put a bird on it kitsch artisan trust fund listicle. Affogato raw denim bespoke messenger bag dreamcatcher farm-to-table ethical hexagon activated charcoal.
+Ecology provides a natural beginning. Not only has the geomorphic fact and formation of the archipelago engendered the metaphors through which Caribbean writers have thought and written about Caribbean identity, but the Caribbean’s ecology has been critical to the development of capitalism itself. The geographic location and climatic conditions of the Caribbean have made it both the primordial terrain for commercial expansion as well as a strategic theatre for inter-imperial rivalry and conflict. Both commerce and politics would lead to the “repetitive catastrophes,” as Wilson Harris once dubbed them, of Caribbean space, as the continual search for profit and power would devastate the islands’ primeval ecologies.[^4]
+
+“Sugar exterminated the forests,” historian Manuel Moreno Fraginals wrote of Cuba.[^5] But across the Caribbean, the development and expansion of the market would lay waste to the region’s ancient ecosystems: the old-growth forests of pine, cedar, mahogany, ceiba, and ironwood were clear-cut for sugar, but also for cattle, tobacco, bananas, and other commodities. “Deaf and blind to history, focusing on the present, the sugarocracy destroyed in years what only centuries could replace,” Moreno Fraginals continues, “and at the same time destroyed much of the island’s fertility by soil erosion and the drying-up of thousands of streams.” Both land and water have been assaulted during the incessant, unforgiving expansion of capitalism in the Caribbean. Coast lines and waterways were remade for canals, ports, dykes, and embankments; the sea has been poisoned by caravels and cruise ships; coral reefs have disintegrated and aquatic life decimated; sea levels have risen while tropical storms and hurricanes have intensified as ocean temperatures spike. In short, capitalism has unleashed five hundred years of Caribbean environmental apocalypse.
+
+Of course, it was not an abstract, immaterial capitalism that cleared the forests, harvested the sugar cane, dredged the canals, and impoldered the coasts. Human labor did this work and there can be no accounting for capitalism in the Caribbean without an account of Caribbean labor and the forms of bondage, regulation, and social control it has been subjected to. The history of capitalism in the Caribbean is the history of the Caribbean working classes and peasantries, of the enslaved and the indentured, as they struggle against alienation and exploitation and for dignity, freedom, and autonomy. It is the history of serving tourists and of sex workers.[^6] It is also the history of Caribbean diaspora: of the populating of the islands by Africans and Indians after the near-total annihilation of the indigenous populations, of intra-Caribbean migration to Cuba and Panama, of the journeys to Brooklyn and Brixton, and to Miami and Montreal. Again, literature provides an important archive for these migrations, as demonstrated through the novels of Eric Walrond, Paule Marshall, Austin Clarke, Samuel Selvon, Edwidge Danticat, and others.
+
+The story of labor is also about labor’s antagonists: of the Caribbean middle classes and elites as they assume the seemingly paradoxical positions as both anti-colonial nationalists and transnational compradors – and as they consolidate the fusion of class with color, often while promoting national myths of multiracialism, _mestizaje_ and ethnic mixing, unity in diversity. On the other hand, there are also those who exist on the margins of the official story of labor and are surplus to the productive regimes of capital: hustlers, higglers, idlers, scammers. The permanently unemployed. An Antillean lumpenproletariat who reject incorporation by capitalism and distain the valorization of work as salvation.
+
+Yet if the history of capitalism in the Caribbean is a story of labor, the story of labor is invariably a history of gender: we must consider the doubled experience of labor experienced by Caribbean women. That is, in the history of capital accumulation in the Caribbean, profit was only possible because women have not only worked in the fields and factories, but because they have been responsible for the biological reproduction of the population necessary to expand and continue the work force.[^7] The story of women and women’s bodies in the history of capitalism in the Caribbean remind us that the categories and social functioning of gender, as well as race,[^8] are not merely ancillary byproducts of capitalism’s social relations. They are part of the primordial social orders from which capitalism emerged, providing the necessary conditions for the extraction of surplus value and the possibilities of profit.
+
+The question of finance is arguably the most difficult term to grasp – largely because of its lack of physicality, its abstract and occult forms, and its spectral, placeless, ageographic presence. Certainly, finance remains in the shadow of the more typical keywords or metaphors through which we have understood the history of capitalism in the Caribbean. Finance is less understood than the plantation, that meta-historical, pan-Caribbean complex put forward as a kind of archetypal model and metaphor for Caribbean political economy.[^9] Or of the commodity – sugar, especially – in which the history and social relations of the Caribbean can be interpreted and unraveled.[^10] Or in the physical body of labor itself. Yet it is arguably finance and financialization – of rendering the material into the immaterial for the purposes of exchange and profit – that has provided the ghostly sinews for the expansion of capitalism in the Caribbean. The financing of the first voyages of exploration and conquest, to the birth of the mercantilist era of capitalism and slavery,[^11] to the rise of international banking in the region,[^12] to the era of offshore banking and cryptocurrencies[^13] – all demonstrate the long-term historical and conceptual importance of finance to capitalism in Caribbean. Moreover, from Haiti’s “double debt” of 1823, to Cuba’s “odious debts” of the 1930s, to the IMF debts of the Jamaican 1980s, to the present-day $74 billion “national” debt of Puerto Rico – finance has been critical to the imperial governance and control of the Caribbean. It has provided the means by which Caribbean sovereignty has been repeatedly undermined.
+
+[^1]: Guillén, _West Indies, Ltd._
+[^2]: Morisson, "The Site of Memory."
+[^3]: Lewis, _Scammer's Yard_.
+[^4]: Harris, _Jonestown_.
+[^5]: Moreno Fraginals, _The Sugarmill_.
+[^6]: Kempadoo, _Sexing the Caribbean_.
+[^7]: See Morgan, _Laboring Women_ and Turner, _Contested Bodies_, among others.
+[^8]: Girvan, _Aspects of the Political Economy of Race_.
+[^9]: See Best, “Outlines of a Model” and _Beckford, Persistent Poverty_.
+[^10]: Ortiz, _Cuban Counterpoint_.
+[^11]: Williams, _Capitalism and Slavery_.
+[^12]: Hudson, _Bankers and Empire_.
+[^13]: Naomi Klein, _The Battle For Paradise_.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h2>Artifacts</h2></a></div>
 **Title:** [*The Holy Piby*](https://www.sacred-texts.com/afr/piby/index.htm)  
@@ -32,3 +56,37 @@ Hell of whatever adaptogen occupy church-key shabby chic YOLO. Affogato crucifix
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h2>Bio</h2></a></div>
 
 Truffaut paleo messenger bag single-origin coffee raclette salvia snackwave PBR&B semiotics migas la croix distillery crucifix hoodie artisan. Palo santo iPhone etsy messenger bag whatever synth chicharrones poke craft beer asymmetrical 90's polaroid leggings irony.
+
+<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bibliography"><h2>Bibliography</h2></a></div>
+
+Beckford, George L. _Persistent Poverty: Underdevelopment in Plantation Economies of the Third World_ (London: Zed Books, 1983).
+
+Best, Lloyd. “Outlines of a Model of a Pure Plantation Economy,” _Social and Economic Studies,_ 17, (Sept. 1968).
+
+Girvan, Norman. _Aspects of the Political Economy of Race in the Caribbean and the Americas: A Preliminary Interpretation_ (Atlanta: Institute of the Black World, 1975).
+
+Guillén, Nicolás. _West Indies, Ltd._ (Havana: Uca García y Cía, 1934).
+
+Harris, Wilson. _Jonestown_ (London: Faber and Faber, 1996).
+
+Hudson, Peter James. _Bankers and Empire: How Wall Street Colonized the Caribbean_ (Chicago: University of Chicago Press, 2017).
+
+Kempadoo, Kamala. _Sexing the Caribbean_: Gender, Race and Sexual Labour (New York; Routledge, 2004).
+
+Klein, Naomi. _The Battle For Paradise: Puerto Rico Takes on the Disaster Capitalists_ (Chicago: Haymarket Books, 2018).
+
+Lewis, Jovan Scott. _Scammer's Yard: The Crime of Black Repair in Jamaica_ (Minneapolis: University of Minnesota Press, 2020).
+
+Moreno Fraginals, Manuel. _The Sugarmill: The Socioeconomic Complex of Sugar in Cuba, 1760-1860,_ Cedric Belfrage, trans. (New York: Monthly Review Press, 1978).
+
+Morgan, Jennifer. _Laboring Women: Reproduction and Gender in New World Slavery_ (Philadelphia: University of Pennsylvania Press, 2004).
+
+Morrison, Toni. “The Site of Memory,” in _Inventing the Truth: The Art and Craft of Memoir_, 2nd ed., ed. William Zinsser (Boston; New York: Houghton Mifflin, 1995), 83-102.
+
+Ortiz, Fernando. _Cuban Counterpoint: Tobacco and Sugar_ (Durham: Duke University Press, 1995).
+
+Turner, Sasha. *Contested Bodies: Pregnancy, Childrearing, and Slavery in Jamaica* (Philadelphia: University of Pennsylvania Press, 2019).
+
+Williams, Eric. _Capitalism and Slavery_ (Chapel Hill: University of North Carolina Press, 1944).
+
+<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Notes"><h2>Notes</h2></a></div>
