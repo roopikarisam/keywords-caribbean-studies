@@ -6,9 +6,9 @@ link: https://history.ucla.edu/faculty/peter-james-hudson
 image: assets/images/capitalism.jpg
 ---
 
-<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Curatorial"><h2>Curatorial Statement</h2></a></div>
+<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg" alt="Photograph of coins stacked on paper currency"><a href="#Curatorial"><h2>Curatorial Statement</h2></a></div>
 
-As a way into thinking about “capitalism” as a keyword in Caribbean studies, one should perhaps turn from political economy to poetry. For arguably it is the Caribbean’s poets, songsters, essayists, and novelists – as much as its historians (and certainly more than its economists and statisticians) – who have best described and narrated the violent processes and procedures by which capital has made and remade the region. To give but one example, five centuries after Cristóbal Colón stumbled into the archipelago as part of his “Enterprise of the Indies,” Cuban poet Nicolás Guillén wrote of the Caribbean as the “West Indies, Ltd.”[^fn1] The title poem of Guillén’s 1934 collection, “West Indies, Ltd.” provides us with a legalist appellation cast as poetic critique. With droll elegance, Guillén distills the essence of the fraught history of Caribbean commodification, exploitation, and capitalist incorporation. “West Indies, Ltd” was written during the political and economic tumult of the 1930s, during a period when Wall Street greed and Washington geo-strategy were undermining Cuban sovereignty and contributing to the near-starvation of the Cuban people. Guillén wryly recorded a moment where the transformation of the region into “the grotesque headquarters of _companies and trusts_” was accelerating.[^1] Though of course, in _West Indies, Ltd._, Guillén does more than merely account for the ravishes and displacements of capitalism. His poems also document and celebrate the modes of Black song and Black survival that served as the texts and practices of Caribbean anti-capitalist resistance.
+As a way into thinking about “capitalism” as a keyword in Caribbean studies, one should perhaps turn from political economy to poetry. For arguably it is the Caribbean’s poets, songsters, essayists, and novelists – as much as its historians (and certainly more than its economists and statisticians) – who have best described and narrated the violent processes and procedures by which capital has made and remade the region. To give but one example, five centuries after Cristóbal Colón stumbled into the archipelago as part of his “Enterprise of the Indies,” Cuban poet Nicolás Guillén wrote of the Caribbean as the “West Indies, Ltd.”[^1] The title poem of Guillén’s 1934 collection, “West Indies, Ltd.” provides us with a legalist appellation cast as poetic critique. With droll elegance, Guillén distills the essence of the fraught history of Caribbean commodification, exploitation, and capitalist incorporation. “West Indies, Ltd” was written during the political and economic tumult of the 1930s, during a period when Wall Street greed and Washington geo-strategy were undermining Cuban sovereignty and contributing to the near-starvation of the Cuban people. Guillén wryly recorded a moment where the transformation of the region into “the grotesque headquarters of _companies and trusts_” was accelerating.[^1] Though of course, in _West Indies, Ltd._, Guillén does more than merely account for the ravishes and displacements of capitalism. His poems also document and celebrate the modes of Black song and Black survival that served as the texts and practices of Caribbean anti-capitalist resistance.
 
 The digital artifacts I have chosen as placeholders for “capitalism” as a keyword of Caribbean studies are inspired by the work of Guillén, as well as many other writers from across the region. Through their literary practices and imaginative representation, they have offered us an implicit methodology for researching and theorizing capitalism in the Caribbean, while generating an unruly, other archive of capitalism itself. Caribbean literature has documented the great historical, social, and political-economic processes through which the Caribbean made capitalism and capitalism remade the Caribbean. This literature has also brought us closer to an understanding of capitalism’s history in the Caribbean, not necessarily as an accumulation of historical facts (though, often times, their detailing and cataloging of capitalism’s ephemera is astounding), but always, as Toni Morrison once wrote, as _truth_.[^2]
 
@@ -34,28 +34,71 @@ The question of finance is arguably the most difficult term to grasp – largely
 [^6]: Kempadoo, _Sexing the Caribbean_.
 [^7]: See Morgan, _Laboring Women_ and Turner, _Contested Bodies_, among others.
 [^8]: Girvan, _Aspects of the Political Economy of Race_.
-[^9]: See Best, “Outlines of a Model” and _Beckford, Persistent Poverty_.
+[^9]: See Best, “Outlines of a Model” and Beckford, _Persistent Poverty_.
 [^10]: Ortiz, _Cuban Counterpoint_.
 [^11]: Williams, _Capitalism and Slavery_.
 [^12]: Hudson, _Bankers and Empire_.
 [^13]: Naomi Klein, _The Battle For Paradise_.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h2>Artifacts</h2></a></div>
-**Title:** [*The Holy Piby*](https://www.sacred-texts.com/afr/piby/index.htm)  
-**Author:** Robert Athlyi Rogers  
-**Steward:** [Sacred Texts](https://www.sacred-texts.com/index.htm)  
 
-**Description:** Shoreditch edison bulb copper mug shaman pork belly, gochujang art party typewriter adaptogen blog polaroid kickstarter. Chia lomo gentrify butcher bespoke man braid. Venmo heirloom before they sold out cold-pressed. 90's austin williamsburg post-ironic tilde deep v craft beer bushwick.
+**Title:** [_Online Guide to Early Map Images of the Caribbean_](http://thereedfoundation.org/rism/maps/)  
+**Author:** Research Institute for the Study of Man  
+**Steward:** [The Reed Foundation](http://www.thereedfoundation.org/rism/)
 
-**Title:** [Special issue of _Jamaica Journal_ on Jamaican Folk Religion](https://dloc.com/UF00090030/00006/1j?search=jamaica+%3djournal)  
-**Editor:** Alex Gradussov  
-**Steward:** [Digital Library of the Caribbean](https://www.dloc.com/)
+**Curatorial Note:** Cartography has been central to the production of knowledge about the geography of the Caribbean and to its exploitation. While there are a number of different historical collections of Caribbean maps on the internet, the Research Institute for the Study of Man has compiled them together, creating a wonderful clearinghouse for other map collections while uploading many maps of their own.
 
-**Description:** TAffogato mixtape marfa tattooed squid. Fingerstache twee craft beer poke iceland chillwave meh DIY. Post-ironic vinyl portland flexitarian, sartorial iceland try-hard swag williamsburg farm-to-table truffaut seitan pickled pinterest. Small batch forage fixie brooklyn DIY coloring book. Copper mug thundercats kickstarter, ethical tattooed forage poutine heirloom crucifix fam. Crucifix lomo letterpress, gochujang mustache PBR&B man braid. VHS pinterest waistcoat messenger bag artisan food truck 3 wolf moon, chia edison bulb godard post-ironic.
+**Title:** [_Los ingenios: colección de vistas de los principales ingenios de azúcar de la isla de Cuba las láminas dibujadas del natural y litografiadas por Eduardo Laplante_](http://bdh.bne.es/bnesearch/detalle/bdh0000013976)  
+**Creators:** Eduardo Laplante and Justo G. Cantero  
+**Steward:** [Biblioteca Digital Hispánica](http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html)
+
+**Curatorial Note:** With, its twenty-eight stunning lithographic plates by Eduardo Laplante, Justo G. Cantero’s _El Ingenio_ is both a classic document for the study of Cuba’s nineteenth century history, but also a visual archive of the plantation in the greater Caribbean’s history of capitalism.
+
+**Title:** [Digital Library of the Caribbean](https://dloc.com/)  
+**Creators:** Multiple  
+**Stewards:** [Florida International University](http://www.fiu.edu/), in partnership with the [University of Virgin Islands](http://www.uvi.edu/pub-relations/uvi/home.html), and [University of Florida](http://www.ufl.edu/)
+
+**Curatorial Note:** The importance of the Digital Library of the Caribbean to both the history of capitalism in the Caribbean, and to Caribbean studies in general, cannot be overstated. As a portal to the digital collections of a range of libraries representing the region, it offers a public-facing repository that serves both experts and amateurs interested in Caribbean research, for all aspects of the region, and from any number of disciplinary perspectives. While the dLoc’s collections of oral histories of Caribbean labor are significant, it is also uniquely important as a digital archive of the representation of Caribbean ecologies. Its sub-collections of lithographs, gelatin silver prints, stereographs, postcards, and photographs offer an incredible documentation of Caribbean space, much of it already destroyed by the expansion of capitalism.
+
+**Title:** [_The Caribbean Review of Gender Studies_](https://sta.uwi.edu/crgs/archives.asp)  
+**Editors:** Patricia Mohammed and Gabrielle Hosein  
+**Steward:** [The University of the West Indies](http://www.sta.uwi.edu/)
+
+**Curatorial Note:** _The Caribbean Review of Gender Studies_ is not specifically devoted to labor, but its commitment to examining gender in all its manifestation and forms in the Caribbean makes it is a critical source for understanding the doubled form of labor, and with it the role and status of Caribbean women, in the accumulation and reproduction of capitalism.
+
+**Title:** [George Padmore Archive](https://www.marxists.org/archive/padmore/index.htm)  
+**Creator:** Unknown  
+**Steward:** [Marxists Internet Archive](https://www.marxists.org)
+
+**Curatorial Note:** The writings of the Trinidadian Pan-Africanist George Padmore provide an incredible window into the global world of colonialism, anti-imperialism, and Black labor in the twentieth century. His 1929 monograph _The Life and Struggles of Negro Toilers_ is a neglected, but unprecedented and unsurpassed, study of Black labor and insurgency in Africa, the United States, and the Caribbean. A growing collection of Padmore’s texts, including _The Life and Struggles_, is available via the Marxist Internet Archive, an incredible repository of texts and journals from the vast historical archive of Marxist thought and radical anti-capitalist movements.
+
+**Title:** [Legacies of British Slave-ownership](https://www.ucl.ac.uk/lbs/)  
+**Creator:** The Centre for the Study of the Legacies of British Slave-ownership  
+**Steward:** [University College London](https://www.ucl.ac.uk)
+
+**Curatorial Note:** Based in the archival records of the compensation payments distributed to British investors in slavery in the Caribbean and other British territories, the Legacies of British Slave Ownership project documents the pervasiveness and persistence of slavery to modern Britain. The records of the Legacies project serve to verify Eric Williams’ once-controversial claims concerning the importance of slavery to the rise of capitalism while also bolstering the claim for Caribbean reparations.
+
+**Title:** [Puerto Rico Syllabus](https://puertoricosyllabus.com)  
+**Creators:** Yarimar Bonilla, Marisol LeBrón, Sarah Molinari, Isabel Guzzardo Tamargo, and Kimberly Roa  
+**Steward**: [Unpayable Debt](https://www.socialdifference.columbia.edu/projects-/unpayable-debt-capital-violence-and-the-new-global-economy)
+
+**Curatorial Note:** A smart and sprawling site on Puerto Rico’s culture, society, and history, The Puerto Rico Syllabus contains an incredible set of resources on the origins of the island’s current economic crisis and the attempts by various levels of government to relieve and restructure its $72 billion debt. The Puerto Rico Syllabus is invaluable resource for both academics and activists.
+
+**Title:** [The Panama Papers: Exposing the Rogue Offshore Finance Industry](https://www.icij.org/investigations/panama-papers/)  
+**Editors:** Michael Hudson, Martha M. Hamilton, Gerard Ryle, Marina Walker Guevara, and Tom Stites
+**Steward:** [The International Consortium of Investigative Journalists](https://www.icij.org)
+
+**Curatorial Note:** Attempts to investigate the contemporary history of capitalism in the Caribbean are often thwarted by corporate secrecy, private archives, and attorney-client privilege. The Panama Papers has the potential to change this. Based on the leak of more than 11.5 million financial and legal records generated by the Panamanian law firm and corporate service provider Mossak Foneseca, The Panama Papers are a gold mine for researchers. This archive exposes a system that enables financial crime, corruption and wrongdoing, hidden by secretive offshore companies, offering a rare and unprecedented level of access to the shady world of front companies and shell corporations that use the Caribbean as their base.
+
+**Title:** [_West Indies LTD._](http://www.cervantesvirtual.com/obra-visor/west-indies-ltd-1934--1/html/ff57fb10-82b1-11df-acc7-002185ce6064.html)  
+**Author:** Nicolás Guillén  
+**Steward:** [Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com/)
+
+**Curatorial Note:** In _West Indies, Ltd._, Cuban poet Nicolás Guillén poetically documents the cultural and political upheavals American capitalism brought to the Caribbean in the 1930s, and the forms of Black song that provided the soundtrack to Caribbean anti-capitalist resistance
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h2>Bio</h2></a></div>
 
-Truffaut paleo messenger bag single-origin coffee raclette salvia snackwave PBR&B semiotics migas la croix distillery crucifix hoodie artisan. Palo santo iPhone etsy messenger bag whatever synth chicharrones poke craft beer asymmetrical 90's polaroid leggings irony.
+[Peter James Hudson](https://history.ucla.edu/faculty/peter-james-hudson) is associate professor of African American Studies and History at the University of California, Los Angeles. He is the author of *Bankers and Empire: How Wall Street Colonized the Caribbean* (2017).
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bibliography"><h2>Bibliography</h2></a></div>
 
@@ -88,5 +131,7 @@ Ortiz, Fernando. _Cuban Counterpoint: Tobacco and Sugar_ (Durham: Duke Universit
 Turner, Sasha. *Contested Bodies: Pregnancy, Childrearing, and Slavery in Jamaica* (Philadelphia: University of Pennsylvania Press, 2019).
 
 Williams, Eric. _Capitalism and Slavery_ (Chapel Hill: University of North Carolina Press, 1944).
+
+_Image used under a [Pixabay](https://pixabay.com/service/license/) license._
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Notes"><h2>Notes</h2></a></div>
