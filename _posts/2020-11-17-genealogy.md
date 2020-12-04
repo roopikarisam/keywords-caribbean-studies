@@ -22,22 +22,65 @@ In academia we speak often about literary and intellectual genealogies: how spec
 [^2]: Manley, _Slipstream_, 75.
 [^3]: Lowery, “Which Black Americans Should Get Reparations?”
 [^4]: Brathwaite, “Note(s) on Caribbean Cosmology,” 16.
-[^5]: Brodber, _Woodside_.
-[^6]: Brand, _A Map to the Door of No Return_.
+[^5]: See Brodber, _Woodside_.
+[^6]: See Brand, _A Map to the Door of No Return_.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h2>Artifacts</h2></a></div>
-**Title:** [*The Holy Piby*](https://www.sacred-texts.com/afr/piby/index.htm)  
-**Author:** Robert Athlyi Rogers  
-**Steward:** [Sacred Texts](https://www.sacred-texts.com/index.htm)  
 
-**Description:** Shoreditch edison bulb copper mug shaman pork belly, gochujang art party typewriter adaptogen blog polaroid kickstarter. Chia lomo gentrify butcher bespoke man braid. Venmo heirloom before they sold out cold-pressed. 90's austin williamsburg post-ironic tilde deep v craft beer bushwick.
+**Title:** [_Two Plantations_](http://www.twoplantations.com/)  
+**Creator:** Richard Dunn  
+**Steward:** [History Design Studio at the Hutchins Center](https://hutchinscenter.fas.harvard.edu/history-design-studio)
 
-**Title:** [Special issue of _Jamaica Journal_ on Jamaican Folk Religion](https://dloc.com/UF00090030/00006/1j?search=jamaica+%3djournal)  
-**Editor:** Alex Gradussov  
-**Steward:** [Digital Library of the Caribbean](https://www.dloc.com/)
+**Curatorial Note:** A digital – largely graphic and interactive – representation of archival research carried out by Richard S. Dunn, the site uses recovered genealogies of enslaved families to frame a comparative historical argument about slavery in two locations (Jamaica and Virginia, USA), producing transnational conceptual connections between the Caribbean and the US. It reproduces the same genealogical information (for six families across two plantations) in multiple formats: Dunn’s hand-drawn family tree for one family; interactive family trees for all families, with each node linking to a mini-biography of the named person; family lists; and finally a brief analysis. Mining the information from plantation inventories, the text describes the project as “interpreting … against the grain” (improvisation) in response to “bare [archival] traces” (lack) and posits itself as pushing back against plantation logics of “proprietary accounting” – and yet this kind of document (inventory, ledger) is where the genealogies of New World black people so often begin.
 
-**Description:** TAffogato mixtape marfa tattooed squid. Fingerstache twee craft beer poke iceland chillwave meh DIY. Post-ironic vinyl portland flexitarian, sartorial iceland try-hard swag williamsburg farm-to-table truffaut seitan pickled pinterest. Small batch forage fixie brooklyn DIY coloring book. Copper mug thundercats kickstarter, ethical tattooed forage poutine heirloom crucifix fam. Crucifix lomo letterpress, gochujang mustache PBR&B man braid. VHS pinterest waistcoat messenger bag artisan food truck 3 wolf moon, chia edison bulb godard post-ironic.
+**Title:** [_Indo-Guyanese Ancestry DNA Results_](https://www.youtube.com/watch?v=lUaJ6pEBjZg&t=20s)  
+**Creator:** Saarah Baksh  
+**Steward:** [Saarah Baksh](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEsfmywi6rx_gAAAXYrLzIQ_AUGp2G7kvVwKSBGfaSlfNJDlzvukEEPVnBkVHnpKR7YN13bWX-6lBSCxbR5gtAZqajiip0aN63pCTeeSbJs9PAfziDNhhaxcDjbR2vn6MFx0mA=&originalReferer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fca.linkedin.com%2Fin%2Fsaara-baksh-b7b96b50)
+
+**Curatorial Note:** Baksh’s video, in which she reveals the results of her Ancestry DNA test, evidences all three major themes of this collection: how personal genealogical projects proceed from a perceived lack; how they are entangled with national(ist) projects; and how they employ speculation and improvisation in the face of archival insufficiency. Baksh reveals a wish to reconnect with a South Asian ancestral heritage from which she feels removed, and also to confront attempts to position her outside Guyanese identity: “It hurts my heart when my own Guyanese people don’t think I’m Guyanese.” As a response, the video and its paratext are replete with nationalist traces, including quoting the national motto. It ends by decrying the insufficient detail about South Asian genetic heritage in the test results, and describes the improvisational strategies Baksh uses to compensate, including crowd-sourcing: “If you guys have any comments or more information of what you think my ethnicity may be,” the description says, “I’d love to read them!”
+
+**Title:** [_Jamaican Family Search_](https://www.youtube.com/watch?v=lUaJ6pEBjZg&t=20s)  
+**Creator:** Patricia Jackson  
+**Steward:** [Patricia Jackson](https://www.ucl.ac.uk/lbs/project/patriciajackson/)
+
+**Curatorial Note:** Composed primarily of transcriptions of archival documents, this site is the kind of artifact that comes readily to mind when thinking of “genealogy”: a portal through which people search records for traces of their ancestors. It figures genealogy as a worthy project – including lots of advice and how-to’s, it is intended as a resource for genealogical research in general, beyond the use of the site itself. Similar projects are to be found in Barbados, the Virgin Islands, Puerto Rico and elsewhere but unlike those, this is largely the work of one person, emerging out of Jackson’s personal genealogical interests; it includes a biography and a second biography (called “Biography 2”) about her spiritual journey. Here again, however, we see genealogy as a work of personal identity-construction entangled with national(ist) narratives: the site includes many maps and images with no clear connection to genealogical research, and the first page opens with a potted history of the country and foregrounds the national motto.
+
+**Title:** [_Banque Numérique des Patrimoines Martiniquais_](https://www.patrimoines-martinique.org)  
+**Creator:** Collectivité territoriale de la Martinique, Direction des Affaires Culturelles, Naoned Systèmes - Logiciel Mnesys, and Naomis  
+**Steward:** [Collectivité territoriale de la Martinique](http://www.collectivitedemartinique.mq)
+
+**Curatorial Note:** This site incorporates a section on genealogical records into a broader project dedicated to preservation of the communal Martinican patrimony – here again, a signal that family genealogy is implicitly imbricated with nationalist projects. Under “Services – Public” the site offers a downloadable “Guide to Genealogical Research in Martinique” and specifically foregrounds opportunities to redress gaps produced by enslavement’s effect on genealogy, with sidebar links like “Finding your slave ancestors.” It offers details about the archive to which this link applies, noting that it comprises registers “used to record the civil status of the freed population. They go back to July 1848. This is when family names were given to the slaves, who previously did not have one.”
+
+**Title:** ["Caribbean-Chinese Genealogy Tips"](http://www.yonarrative.com/caribbean-chinese-diaspora-genealogy-search/)  
+**Author:** Sylvia Wong Lewis  
+**Steward:** [Narrative Network](http://www.yonarrative.com)
+
+**Curatorial Note:** A “how-to” guide for Chinese-Caribbean people seeking to do genealogical research, framed within personal narrative and family artefacts (photos, etc), this page reproduces Wong Lewis’ correspondence with the UK National Archives as she sought materials pertaining to her ancestors who were indentured in the Caribbean. The second-person direct address of the opening – “Have you searched for your Caribbean Chinese Diaspora ancestors?” – a mode to which the post returns at the end, implicitly figures genealogy as a worthy, even virtuous project, and situates that project within a regional, rather than national, context. The page is part of a many-faceted multimedia enterprise (filmmaking, audio documentary, etc), a significant portion of which revolves around stories of Wong Lewis’ ancestors. Her film _From Harlem to Shanghai_, linked in the sidebar of multiple pages of the site, puts her recovered family story at the intersection of Caribbean post-slavery indenture and US slavery.
+
+**Title:** [_Latino Genealogy & Beyond_](https://latinogenealogyandbeyond.com)  
+**Creator:** Ellen Fernandez-Sacco  
+**Steward:** [Ellen Fernandez-Sacco](https://berkeley.academia.edu/EllenFernandezSacco)
+
+**Curatorial Note:** Like the previous site, this functions at the intersection of personal and professional genealogical projects. Fernandez-Sacco describes (on the "About" page) the genealogical journey to learn about her Puerto Rican forebears, through which she discovered Boriken Taíno ancestry along with European "military men and their slaveholding families" and "North and West Africans and into the Middle East." Thus, the site enacts multiple border crossings: across nations, races and languages. Positioning Fernandez-Sacco as a genealogy professional, the site foregrounds her links with Black ProGen – a US-based project to "research and document the lives of POC stateside and beyond" – and her publications, which include a two-part essay on her family ancestry and the research she did to unearth it. The "About" page ends with an injunction: "Remember, genealogy is the democratization of history. Get those stories out there! Busca sus raices, encuentra su gente!"
+
+**Title:** ["Caribbean Family Sagas and the Critique of Genealogy”](https://blogs.umass.edu/mordecai/2020/11/20/family-tree-diagrams-genealogy/)  
+**Creator:** Rachel L. Mordecai  
+**Steward:** [Rachel L. Mordecai](https://blogs.umass.edu/mordecai/)
+
+**Curatorial Note:** An interim stage between a conference paper and the prologue to my monograph, this essay lays out – with specific reference to the family-tree diagrams of Caribbean family-saga novels – many of the same thoughts about genealogy that are contained in my curatorial statement above. The themes of perceived lack, archival insufficiency, and speculation/improvisation as strategies are all present. That Erna Brodber gets both first and last word – from her non-fiction book _Woodside_ quoted in the curatorial statement to her novel _Nothing’s Mat_ which closes the essay linked here – not only speaks to the brilliance of Brodber’s thinking on archives, family-formation, and genealogical practice, but also presses us to consider whether all roads through Caribbean genealogy ultimately lead (or at least bend) toward fiction.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h2>Bio</h2></a></div>
 
-Truffaut paleo messenger bag single-origin coffee raclette salvia snackwave PBR&B semiotics migas la croix distillery crucifix hoodie artisan. Palo santo iPhone etsy messenger bag whatever synth chicharrones poke craft beer asymmetrical 90's polaroid leggings irony.
+[Rachel L. Mordecai](https://blogs.umass.edu/mordecai/) teaches Caribbean literature and culture at the University of Massachusetts Amherst. Her book *Citizenship Under Pressure: The 1970s in Jamaican Literature and Culture* (UWI Press, 2014) investigates the role of expressive culture in negotiating and memorializing the politically tumultuous and culturally vibrant 1970s in Jamaica. She is currently at work on a monograph on Caribbean family sagas.
+
+<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bibliography"><h2>Bibliography</h2></a></div>
+
+Brand, Dionne. _A Map to the Door of No Return: Notes to Belonging_. Toronto: Doubleday Canada, 2001.
+
+Brathwaite, Kamau. “Note(s) on Caribbean Cosmology.” _River City_. 16.2 (1996): 1-17.
+
+Brodber, Erna. _Woodside, Pear Tree Grove P.O._ (Kingston: University of the West Indies Press, 2004).
+
+Lowery, Wesley. [“Which Black Americans Should Get Reparations?”](https://www.washingtonpost.com/national/which-americans-should-get-reparations/2019/09/18/271cf744-cab1-11e9-a4f3-c081a126de70_story.html) _The Washington Post_, September 18, 2019. Accessed 2 December 2020.
+
+Manley, Rachel. _Slipstream: A Daughter Remembers_ (Toronto: Vintage Canada, 2001).
