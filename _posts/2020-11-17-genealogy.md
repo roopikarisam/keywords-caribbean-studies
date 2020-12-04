@@ -84,3 +84,5 @@ Brodber, Erna. _Woodside, Pear Tree Grove P.O._ (Kingston: University of the Wes
 Lowery, Wesley. [“Which Black Americans Should Get Reparations?”](https://www.washingtonpost.com/national/which-americans-should-get-reparations/2019/09/18/271cf744-cab1-11e9-a4f3-c081a126de70_story.html) _The Washington Post_, September 18, 2019. Accessed 2 December 2020.
 
 Manley, Rachel. _Slipstream: A Daughter Remembers_ (Toronto: Vintage Canada, 2001).
+
+_Image used under a [Pixabay](https://pixabay.com/service/license/) license._

@@ -50,6 +50,8 @@ Scholars, artists, writers, activists and others continue to wrestle with the un
 
 **Curatorial Note:** The very recently established Ameena Gafoor Institute is positioning itself as the main hub for all things related to indentureship. Led by poet-scholar David Dabydeen, the institute is supported by funds from the Gafoor family and is named for the founding publisher and editor of _The Art Journal_, herself a descendant of indentured workers. The institute is also home to the _Journal of Indentureship Studies_ whose first issue will debut in July 2021.
 
+_Image Credit:_ Cutlass, _courtesy of Andil Gosine (2011)_
+
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h2>Bio</h2></a></div>
 
 [Andil Gosine](https://andilgosine.persona.co/) is Professor of Environmental Arts and Justice at York University, Toronto, and author of Nature’s Wild: Love, Sex and Law in the Caribbean (Duke, Fall 2021). His current curatorial projects include Wendy Nanan at the Art Museum of the Americas in Washington DC and everything slackens in a wreck- at the Ford Foundation Gallery in New York.

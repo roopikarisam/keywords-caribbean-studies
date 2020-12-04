@@ -71,3 +71,5 @@ I hope to contribute to an appreciation of spirituality in the Caribbean as a st
 Handler, Jerome S., and Kenneth Bilby. *Enacting Power: The Criminalization of Obeah in the Anglophone Caribbean, 1760-2011*. Kingston: University of the West Indies Press, 2013.
 
 James, C. L. R. *The Black Jacobins: Toussaint L’Ouverture and the San Domingo Revolution*. New York: Vintage, 1938.
+
+_Image used under a [Pixabay](https://pixabay.com/service/license/) license._
