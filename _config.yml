@@ -2,11 +2,15 @@
 name: "Keywords for Caribbean Studies"
 title: "Keywords"
 description: "Digital sources for teaching Caribbean studies"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/card.png'
+image: 'assets/images/card.png'
 favicon: 'assets/images/logo.png'
 baseurl: /keywords
 include: ["_pages"]
 permalink: pretty
+twitter:
+  card: summary
+  image: 'assets/images/card.png'
 
 # Authors
 authors:
