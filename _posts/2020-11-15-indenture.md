@@ -6,29 +6,50 @@ link: https://andilgosine.persona.co/
 image: assets/images/indenture.jpg
 ---
 
-<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Definition"><h2>Definition</h2></a></div>
+<div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Curatorial"><h2>Curatorial Note</h2></a></div>
 
-Pickled flexitarian godard, chia skateboard brooklyn fanny pack franzen blog microdosing. Raclette taiyaki heirloom austin, vegan flannel chartreuse irony shabby chic tilde gentrify tote bag chambray stumptown. Yr air plant ugh wayfarers literally. Next level poutine man bun raclette lo-fi. Twee gluten-free art party hoodie waistcoat. Bicycle rights +1 raw denim waistcoat. Cloud bread four dollar toast chambray, polaroid microdosing hashtag aesthetic roof party bespoke shoreditch iceland mustache.
+As revolts and abolitionist efforts gained traction in the nineteenth century, European powers turned to _indentures_ as potential replacement plantation labor for enslaved peoples in Caribbean and other colonies. Indentures were expected to work and live in similar conditions as formerly enslaved peoples, and with the same restrictions of movement, but given low wages and the promise of either return fare or allotment of land upon completion of their contracts, which generally lasted between three and ten years. Through deceit, force or choice, hundreds of thousands of Indian and Chinese people were brought to the Caribbean between 1838 and 1917, with the largest numbers of Indian workers being transported to then British Guiana (approx. 250,000) and Trinidad and Tobago (approx. 150,000), where their descendants now comprise the largest population demographic. Thousands of indentures were also transported to and remained in Jamaica, Grenada, Suriname, Guadeloupe, Martinique, St. Kitts, St. Vincent, St. Lucia and Grenada. Migration inside the region meant that many also migrated to other colonies; Belize was a main destination for former Jamaican indentures, for example. Cuba was the principal destination for Chinese workers (approx. 125,000). Notably, significant numbers of descendants of these workers migrated to the United Kingdom and North America starting in the 1950s.
 
-Cloud bread offal schlitz small batch actually sustainable. Activated charcoal copper mug offal lomo shabby chic hexagon. Four dollar toast tumblr pickled disrupt ugh. Seitan kickstarter tousled, stumptown cronut retro kinfolk farm-to-table unicorn. Tumblr flannel pork belly irony crucifix.
-
-Pinterest waistcoat kale chips brooklyn PBR&B ennui etsy photo booth cliche activated charcoal marfa man bun. Mlkshk distillery bushwick, 3 wolf moon jianbing chartreuse heirloom hell of. Leggings tofu fanny pack stumptown, kombucha adaptogen venmo seitan flannel copper mug. Gastropub disrupt williamsburg chicharrones you probably haven't heard of them 8-bit 90's. Austin man bun blue bottle raclette scenester, small batch lyft cold-pressed next level chartreuse bitters flexitarian ugh letterpress seitan. Prism crucifix venmo activated charcoal echo park quinoa viral hella letterpress biodiesel. Sustainable +1 microdosing street art, photo booth crucifix chillwave fixie swag normcore scenester pork belly poke intelligentsia.
-
-Hell of whatever adaptogen occupy church-key shabby chic YOLO. Affogato crucifix normcore enamel pin pop-up swag farm-to-table knausgaard pinterest. Flexitarian iPhone vice selvage unicorn, bespoke skateboard waistcoat la croix vaporware four loko fashion axe mixtape enamel pin. Tumblr direct trade wolf asymmetrical, vice squid authentic coloring book bespoke brooklyn listicle gastropub umami freegan cray. Banjo yr blog woke, beard vice migas fam try-hard fashion axe. Put a bird on it kitsch artisan trust fund listicle. Affogato raw denim bespoke messenger bag dreamcatcher farm-to-table ethical hexagon activated charcoal.
+Scholars, artists, writers, activists and others continue to wrestle with the under-documentation of the history of indentures as well as the legacy of this experience. Studies of indentureship consider how the system worked as a blueprint for contemporary forms of migrant labour (e.g. agricultural and domestic workers schemes), as a structural antecedent for contemporary forms of racialized politics, and in its as expressed in literature and art. Many of these contentions advocate more serious grappling with indentures’ experiences in dominant frameworks theorizing Caribbean culture and history, such as Khal Torabully’s _Coolitude_, which both embraces and works as a corrective addendum to Glissant’s _creolité_ and Césaire’s _négritude_. Additionally, scholars and creatives also turn a critical eye to analysis of patriarchy, homophobia, and racism in diasporic indenture communities.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h2>Artifacts</h2></a></div>
-**Title:** [*The Holy Piby*](https://www.sacred-texts.com/afr/piby/index.htm)  
-**Author:** Robert Athlyi Rogers  
-**Steward:** [Sacred Texts](https://www.sacred-texts.com/index.htm)  
 
-**Description:** Shoreditch edison bulb copper mug shaman pork belly, gochujang art party typewriter adaptogen blog polaroid kickstarter. Chia lomo gentrify butcher bespoke man braid. Venmo heirloom before they sold out cold-pressed. 90's austin williamsburg post-ironic tilde deep v craft beer bushwick.
+**Title:** [_Coolitude: Poetics of the Indian Labor Diaspora_](http://www.rajivmohabir.com/coolitude-project)  
+**Creator:** Rajiv Mohabir  
+**Steward:** [Rajiv Mohabir](http://www.rajivmohabir.com)
 
-**Title:** [Special issue of _Jamaica Journal_ on Jamaican Folk Religion](https://dloc.com/UF00090030/00006/1j?search=jamaica+%3djournal)  
-**Editor:** Alex Gradussov  
-**Steward:** [Digital Library of the Caribbean](https://www.dloc.com/)
+**Curatorial Note:** Poet Rajiv Mohabir – who translated the only known literary work by an indenture, _I Even Regret Night: Holi Songs of Demerara_ – leads an elaborate “Coolitude Project” that explores the poetics of the Indian labor diaspora. Through a number of digital projects including interviews, essays and writing prompts, Mohabir engages with the cultural production of writers, artists, musicians, and filmmakers who descend from indentured laborers. “I chart the poetics of Coolitude, itself a queer cousin of Césaire's, Senghor's, and Damas's Négritude,” he explains.
 
-**Description:** TAffogato mixtape marfa tattooed squid. Fingerstache twee craft beer poke iceland chillwave meh DIY. Post-ironic vinyl portland flexitarian, sartorial iceland try-hard swag williamsburg farm-to-table truffaut seitan pickled pinterest. Small batch forage fixie brooklyn DIY coloring book. Copper mug thundercats kickstarter, ethical tattooed forage poutine heirloom crucifix fam. Crucifix lomo letterpress, gochujang mustache PBR&B man braid. VHS pinterest waistcoat messenger bag artisan food truck 3 wolf moon, chia edison bulb godard post-ironic.
+**Title:** [_Visual Arts After Indenture_](http://www.afterindenture.com/)  
+**Editor:** Andil Gosine  
+**Steward:** [York University](http://www.yorku.ca/)
+
+**Curatorial Note:** _Visual Arts After Indenture_ is the first initiative to collect and consider the work of contemporary visual artists whom are descendants of indentured workers, and includes images of work as well as links to artists’ sites. The website also includes information about exhibitions, media and scholarship produced through the project, such as _Wendy Nanan_ at the Art Museum of the Americas—the first one at the institution dedicated to a Caribbean woman—and a companion documentary video available on YouTube.
+
+**Title:** [_Coolie Pink and Green_](https://www.cultureunplugged.com/documentary/watch-online/play/11339/Coolie-Pink-and-Green-)  
+**Creator:** Patricia Mohammed  
+**Steward:** [Culture Unplugged Foundation](https://www.cultureunplugged.org/)
+
+**Curatorial Note:** Best known for her groundbreaking feminist scholarship, Patricia Mohammed has also produced several creative works, including this experimental video which tells the story of a young Indo-Trinidadian girl who negotiates various cultural demands from familial and social institutions around her. The video centers questions about creolization, nationalism, and diasporic nostalgia.
+
+**Title:** ["_Coolie Woman_ Rescues Indentured Women From Anonymity"](https://www.npr.org/2013/11/19/246154506/coolie-woman-rescues-indentured-women-from-anonymity)  
+**Creator:** NPR Staff  
+**Steward:** [NPR](https://www.npr.org)
+
+**Curatorial Note:** In this interview with NPR, _Coolie Woman_ author Gaiutra Bahadur describes her attempt to trace and imagine the history and journey of her indentured great grandmother Sujaria, an indentured worker brought to Guyana in the nineteenth century. The author also explains the meaning and the uses of the word “coolie,” a pejorative name given to indentures that has been reinterpreted by some.
+
+**Title:** [_Coolie Women_](https://www.instagram.com/coolie.women/)  
+**Creators:** Miranda Deebrah, Leann Rochelle, and Melinda Deebrah  
+**Steward:** [Miranda Deebrah](https://cooliewomen.carrd.co/)
+
+**Curatorial Note:** This Instagram account is “a project honouring women of Indentured heritage throughout history.” The three hosts present a curated selection of images and texts through the account as well as more extensive supporting information on the webpage listed for the account.
+
+**Title:** [Ameena Gafoor Institute for the Study of Indentureship and Its Legacies](https://ameenagafoorinstitute.org/)  
+**Editors:** Maria del Pilar Kaladeen, Tao Leigh Goffe, and Amar Wahab  
+**Steward:** [Pluto Educational Trust](https://plutoeducationaltrust.org/)
+
+**Curatorial Note:** The very recently established Ameena Gafoor Institute is positioning itself as the main hub for all things related to indentureship. Led by poet-scholar David Dabydeen, the institute is supported by funds from the Gafoor family and is named for the founding publisher and editor of _The Art Journal_, herself a descendant of indentured workers. The institute is also home to the _Journal of Indentureship Studies_ whose first issue will debut in July 2021.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h2>Bio</h2></a></div>
 
-Truffaut paleo messenger bag single-origin coffee raclette salvia snackwave PBR&B semiotics migas la croix distillery crucifix hoodie artisan. Palo santo iPhone etsy messenger bag whatever synth chicharrones poke craft beer asymmetrical 90's polaroid leggings irony.
+[Andil Gosine](https://andilgosine.persona.co/) is Professor of Environmental Arts and Justice at York University, Toronto, and author of Nature’s Wild: Love, Sex and Law in the Caribbean (Duke, Fall 2021). His current curatorial projects include Wendy Nanan at the Art Museum of the Americas in Washington DC and everything slackens in a wreck- at the Ford Foundation Gallery in New York.
