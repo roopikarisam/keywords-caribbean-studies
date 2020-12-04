@@ -54,4 +54,4 @@ _Image Credit:_ Cutlass, _courtesy of Andil Gosine (2011)_
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h2>Bio</h2></a></div>
 
-[Andil Gosine](https://andilgosine.persona.co/) is Professor of Environmental Arts and Justice at York University, Toronto, and author of Nature’s Wild: Love, Sex and Law in the Caribbean (Duke, Fall 2021). His current curatorial projects include Wendy Nanan at the Art Museum of the Americas in Washington DC and everything slackens in a wreck- at the Ford Foundation Gallery in New York.
+[Andil Gosine](https://andilgosine.persona.co/) is Professor of Environmental Arts and Justice at York University, Toronto, and author of _Nature’s Wild: Love, Sex and Law in the Caribbean_ (Duke, Fall 2021). His current curatorial projects include _Wendy Nanan_ at the Art Museum of the Americas in Washington DC and _everything slackens in a wreck-_ at the Ford Foundation Gallery in New York.
