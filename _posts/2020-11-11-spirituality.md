@@ -72,4 +72,4 @@ Handler, Jerome S., and Kenneth Bilby. *Enacting Power: The Criminalization 
 
 James, C. L. R. *The Black Jacobins: Toussaint L’Ouverture and the San Domingo Revolution*. New York: Vintage, 1938.
 
-_Image used under a [Pixabay](https://pixabay.com/service/license/) license._
+_Image used under a [Pixabay](https://pixabay.com/service/license/) license_

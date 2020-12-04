@@ -132,6 +132,6 @@ Turner, Sasha. *Contested Bodies: Pregnancy, Childrearing, and Slavery in Jamaic
 
 Williams, Eric. _Capitalism and Slavery_ (Chapel Hill: University of North Carolina Press, 1944).
 
-_Image used under a [Pixabay](https://pixabay.com/service/license/) license._
+_Image used under a [Pixabay](https://pixabay.com/service/license/) license_
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Notes"><h2>Notes</h2></a></div>

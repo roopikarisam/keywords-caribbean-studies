@@ -85,4 +85,4 @@ Lowery, Wesley. [“Which Black Americans Should Get Reparations?”](https://ww
 
 Manley, Rachel. _Slipstream: A Daughter Remembers_ (Toronto: Vintage Canada, 2001).
 
-_Image used under a [Pixabay](https://pixabay.com/service/license/) license._
+_Image used under a [Pixabay](https://pixabay.com/service/license/) license_
