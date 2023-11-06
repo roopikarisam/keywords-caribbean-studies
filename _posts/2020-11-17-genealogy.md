@@ -27,7 +27,7 @@ In academia we speak often about literary and intellectual genealogies: how spec
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h2>Artifacts</h2></a></div>
 
-**Title:** [_Two Plantations_](https://web.archive.org/web/20230603155050/http://twoplantations.com/)  
+**Title:** [_Two Plantations_](http://twoplantations.com/)  
 **Creator:** Richard Dunn  
 **Steward:** [History Design Studio at the Hutchins Center](https://hutchinscenter.fas.harvard.edu/history-design-studio)
 
