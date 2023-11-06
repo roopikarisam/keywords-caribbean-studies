@@ -20,9 +20,10 @@ I hope to contribute to an appreciation of spirituality in the Caribbean as a st
 [^2]: Handler and Bilby,  _Enacting Power_, 2.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h2>Artifacts</h2></a></div>
+
 **Title:** [*The Holy Piby*](https://www.sacred-texts.com/afr/piby/index.htm)  
 **Author:** Robert Athlyi Rogers  
-**Steward:** [Sacred Texts](https://www.sacred-texts.com/index.htm)  
+**Steward:** [Sacred Texts](https://archive.sacred-texts.com/)  
 
 **Curatorial Note:** _The Holy Piby_, often referred to as “The Black Man’s Bible,” was published in The United States, South Africa and Jamaica in 1924, and written between 1913 and 1917 by Anguillan Robert Athlyi Rogers (6 May, 1891 – 24 August, 1931). In it, Rogers outlined the tenets of the religion of which he was shepherd, the “Afro-Athlican Constructive Gaathly.” _The Holy Piby_ appears to be originally conceived of as an evolving text, “a book founded by the Holy Spirit to deliver the gospel commanded by the Almighty God for the full salvation of Ethiopia’s posterities” – “Ethiopia” here being a general term for Africa. The _Piby_ is an Afrocentric response to the Euro-Christian Bible, and in it Rogers claims Ethiopia as the “Promised Land” for Black people in the diaspora. As such, it is today considered one of the foundational texts of the Rastafari movement, heavily influenced by Marcus Garvey’s Back to Africa movement and message, and the growing trend towards Ethiopianism in the late nineteenth and early twentieth centuries.
 
@@ -58,13 +59,13 @@ I hope to contribute to an appreciation of spirituality in the Caribbean as a st
 
 **Title:** [_The Madonna Murti_](https://www.youtube.com/watch?v=75iioU892cA)  
 **Author:** Oyetayo Ojoade and Sharon Syriac  
-**Steward:** [LRS Productions Trinidad](https://www.lrsproductionstt.com/)
+**Steward:** [LRS Productions Trinidad](https://www.youtube.com/c/CaribbeanShortFilmsHD?app=desktop)
 
 **Curatorial Note:** In this trailer for the documentary film, *The Madonna Murti*, by  Oyetayo  Ojoade  and Sharon Syriac, the filmmakers interview various religious leaders, academics and devotees about the significance of the Divina  Pastora, or Divine Shepherdess, in Trinidad and Tobago. Hindus, Muslims, Shouters and Catholics alike all flock to the Pastora’s shrine in  Siparia, south-east Trinidad, to pray to the figure who represents, in turn, Mary, mother of Jesus, and Goddess Kali, whom Hindus venerate for protections against famine, destruction, plagues, and epidemics. The Divina  Pastora  has various “origin stories,” which matter less than her function as a protector, and an emblem of Caribbean creolisation. Today, she is believed to heal and perform miracles on behalf of her believers.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h2>Bio</h2></a></div>
 
-[Janelle  Rodriques](https://cla.auburn.edu/english/people/professorial-faculty/janelle-rodriques/)  is an assistant professor of English at Auburn University, where she specializes in Caribbean and Black Atlantic literature. Her monograph, *Narratives of Obeah in West Indian Literature*, is published with Routledge.
+[Janelle  Rodriques](https://english.washington.edu/people/janelle-rodriques)  is an assistant professor of English at Auburn University, where she specializes in Caribbean and Black Atlantic literature. Her monograph, *Narratives of Obeah in West Indian Literature*, is published with Routledge.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bibliography"><h2>Bibliography</h2></a></div>
 
