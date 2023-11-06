@@ -27,7 +27,7 @@ In academia we speak often about literary and intellectual genealogies: how spec
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Artifacts"><h2>Artifacts</h2></a></div>
 
-**Title:** [_Two Plantations_](http://www.twoplantations.com/)  
+**Title:** [_Two Plantations_](https://web.archive.org/web/20230603155050/http://twoplantations.com/)  
 **Creator:** Richard Dunn  
 **Steward:** [History Design Studio at the Hutchins Center](https://hutchinscenter.fas.harvard.edu/history-design-studio)
 
@@ -39,7 +39,7 @@ In academia we speak often about literary and intellectual genealogies: how spec
 
 **Curatorial Note:** Baksh’s video, in which she reveals the results of her Ancestry DNA test, evidences all three major themes of this collection: how personal genealogical projects proceed from a perceived lack; how they are entangled with national(ist) projects; and how they employ speculation and improvisation in the face of archival insufficiency. Baksh reveals a wish to reconnect with a South Asian ancestral heritage from which she feels removed, and also to confront attempts to position her outside Guyanese identity: “It hurts my heart when my own Guyanese people don’t think I’m Guyanese.” As a response, the video and its paratext are replete with nationalist traces, including quoting the national motto. It ends by decrying the insufficient detail about South Asian genetic heritage in the test results, and describes the improvisational strategies Baksh uses to compensate, including crowd-sourcing: “If you guys have any comments or more information of what you think my ethnicity may be,” the description says, “I’d love to read them!”
 
-**Title:** [_Jamaican Family Search_](https://www.youtube.com/watch?v=lUaJ6pEBjZg&t=20s)  
+**Title:** [_Jamaican Family Search_](http://www.jamaicanfamilysearch.com/index.htm)  
 **Creator:** Patricia Jackson  
 **Steward:** [Patricia Jackson](https://www.ucl.ac.uk/lbs/project/patriciajackson/)
 
@@ -51,7 +51,7 @@ In academia we speak often about literary and intellectual genealogies: how spec
 
 **Curatorial Note:** This site incorporates a section on genealogical records into a broader project dedicated to preservation of the communal Martinican patrimony – here again, a signal that family genealogy is implicitly imbricated with nationalist projects. Under “Services – Public” the site offers a downloadable “Guide to Genealogical Research in Martinique” and specifically foregrounds opportunities to redress gaps produced by enslavement’s effect on genealogy, with sidebar links like “Finding your slave ancestors.” It offers details about the archive to which this link applies, noting that it comprises registers “used to record the civil status of the freed population. They go back to July 1848. This is when family names were given to the slaves, who previously did not have one.”
 
-**Title:** ["Caribbean-Chinese Genealogy Tips"](http://www.yonarrative.com/caribbean-chinese-diaspora-genealogy-search/)  
+**Title:** ["Caribbean-Chinese Genealogy Tips"](https://www.narrativenetwork.net/caribbean-chinese-diaspora-genealogy-search/)  
 **Author:** Sylvia Wong Lewis  
 **Steward:** [Narrative Network](http://www.yonarrative.com)
 
