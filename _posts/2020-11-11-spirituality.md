@@ -65,7 +65,7 @@ I hope to contribute to an appreciation of spirituality in the Caribbean as a st
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bio"><h2>Bio</h2></a></div>
 
-[Janelle  Rodriques](https://english.washington.edu/people/janelle-rodriques)  is an assistant professor of English at Auburn University, where she specializes in Caribbean and Black Atlantic literature. Her monograph, *Narratives of Obeah in West Indian Literature*, is published with Routledge.
+[Janelle Rodriques](https://english.washington.edu/people/janelle-rodriques) is an assistant professor of English at the University of Washington (Seattle), where she specializes in Caribbean and Black Atlantic literature. Her monograph, Narratives of Obeah in West Indian Literature, is published with Routledge.
 
 <div class="section-title"><img style="padding: 5px;float:left;" src="{{ site.baseurl}}/assets/images/tiny-key.jpg"><a href="#Bibliography"><h2>Bibliography</h2></a></div>
 
